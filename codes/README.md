@@ -7,3 +7,4 @@
 5. `/models/modeling_subset`.ipynb: Run ML classification models: Naive Bayes and XGBoost on a subset of dataset (with 3 tracks instead of 8)
 6. `fastbert_attempt.ipynb`: implementation of Fastbert model on the dataset
 7. `/bert-uncased/`: readme.md details the BERT model implementation
+8. `topic_modeling.R`: Run topic modeling on the entire dataset  
