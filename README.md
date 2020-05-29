@@ -1,3 +1,5 @@
+This project was done as a part of research assistantship for [Center for Security and Emerging Technology](https://cset.georgetown.edu/) from Jan - May 2020. 
+
 ## AI conference papers Analysis Project
 
 This repo contains materials for identifying AI-relevant research publications
